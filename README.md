@@ -1,16 +1,8 @@
 # tick_tak_toe
+Single Player Game.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+SCREENSHOTS:
+![Screenshot (5)](https://user-images.githubusercontent.com/87565643/146518288-4185d58a-712a-450e-a338-f85640f69e45.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/87565643/146518365-ceef0600-d2fb-4e29-b16d-b97c57f976d2.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/87565643/146518400-00b5b36c-bd10-4d86-9178-2094783f8da7.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/87565643/146518412-3f38775d-b091-4e7c-a601-96534349a001.png)
